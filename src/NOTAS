@@ -1,0 +1,4 @@
+//http://localhost:3000/vehiculos/9
+
+
+//routes.get("/vehiculos/:placa", VehiculoController.getByPlaca);
